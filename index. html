@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="stylesheet.css"
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body borders="collapse">
+    <h1> MASTER TIMETABLE FOR 2024/2025 ACADEMIC YEAR</h1>
+    <table border="collapse">
+        <thead>
+            <tr></tr>
+            <tr>
+                <th>Day/Time</th>
+                <th>8:10-8:51</th>
+                <th>9:00-9:45</th>
+                <th>9:45-10:15</th>
+                <th>10:15-11:00</th>
+                <th>11:00-11:50</th>
+                <th>11:55-12:40</th>
+                <th>12:40-1:30</th>
+                <th>1:30-2:25</th>
+                <th>2:25-3:05</th>
+                <th>3:05-3:55</th>
+                <th>3:55-4:30</th>
+
+            </tr>
+        </td>
+        </thead>
+        <thead>
+            <tbody>
+                <tr>
+                <td rowspan="6">Monday</td>
+                <td>yr 7</td> <td rowspan="6">devotion</td><td>ict2</td><td rowspan="6">BREAK</td><td>math 11</td><td>Eng 17</td><td>p.e 13</td><td rowspan="6">lunch</td><td>geo 15</td><td>science 9</td><td>music 8</td><td rowspan="21">form tuturs time</td>
+                </tr>
+                <tr>
+                <td>yr8</td><td>math 11</td><td>science 9</td><td>art 18</td><td>p.e 13</td><td>eng 17</td><td>l.s 17</td><td>l.s 14</td>
+
+            </tr>
+            <tr></tr>
+                <td>yr9</td><td>eng 17</td><td>HIST 10</td><td>science 9</td><td>swa 13/ <br>fre<br>s/chi6</td><td>bus 11</td><td>math 4</td><td>p.e</td>
+            </tr>
+            <tr>
+                <td>yr10</td><td>eng 7</td><td>l.s 14</td><td>l.s 14</td><td>math 4</td><td>bio 19</td><td>geo 15</td><td>hist 10</td>
+            </tr>
+            <tr>
+                <td>yr11</td><td>geo 15/ <Br>fre5</td><td>Bio 3</td><td>fre/ict</td><td>Eng 7</td><td>phy16</td><td>swa 13</td><td>histo 10</td>
+ 
+            </tr>
+            </td>
+
+            </tr>5
+            </tbody>
+            </thead>
+        </tr>
+            <tr>
+            <td rowspan="6">Tue</td>
+            <td> yr7</td><td>science</td><td>lib</td><td rowspan="6">BREAK</td><td>math 11</td><td>art 18</td><td>p.e 13</td><td rowspan="6">lunch</td><td>eng 17</td><td>hist 1</td><td rowspan="6">gender<br> meeting<br>/debate</td><td rowspan="21">form tuturs time</td>
+        </tr>
+        <tr>
+        <td>yr8</td><td>science 9</td><td>math 11</td><td>science 9</td><td>geo 15</td><td>p.e 13</td><td>eng 17</td><td>hist 1</td>
+        </tr>
+        <tr>
+            <td>yr9</td><td>math 11</td><td>swa13<br> fres<br>chi6</td><td>l.s</td><td>math 4</td><td>eng 17</td>
+        </tr>
+        <tr>
+            <td>yr10</td><td>math 4</td><td> eng 7</td><td>hist 1o</td><td>chem 19</td><td>phy 9</td><td>busi15<br>ch1<br>6/fre 5</td><td>busi15<br>ch1<br>6/fre 5</td>
+        </tr>
+        <tr>
+            <td>yr11</td><td>eng 7</td><td>math</td><td>phy 16</td>geo15<br>fre 5</td><td>math</td><td>math</td><td>bus 4</td><td>bus 5</td>
+        </tr>
+        <thead>
+        <tr>
+        <td rowspan="6">wen</td>
+            <td>yr7</td><td>science 9</td><td>math 11</td><td rowspan="6">BREAK</td><td>geo 15</td><td>eng 17</td><td>p.e 13</td><td rowspan="6">lunch</td><td>hist 1</td><td>art 18</td><td rowspan="6">clubs</td><td rowspan="21">form tuturs time</td>
+        </tr>
+        <tr>
+            <td>yr8</td><td>lib</td><td>math 11</td><td>math 11</td><td>art 18</td><td>p.e 13</td><td>science 9</td><td>music 8</td>
+        </tr>
+        <tr>
+            <td>yr9</td><td>music 9</td><td>l.s</td><td>art 18</td><td>hist 10</td><td>music</td><td>math 11</td><td>math 11</td>
+            
+        </tr>
+        <tr>
+            <td>yr10</td><td>ict/<br>swa<br>13</td><td>ict/<br>swa<br>13</td><td>math</td><td>phy 9</td><td>eng 7</td><td>bio 19</td><td>geo 15</td>
+        </tr>
+        <tr>
+        </thead>
+        <thead>
+            <tr>
+        <td rowspan="6">thur</td>
+            <td> yr7</td><td>math 11</td><td>science 9</td><td>science 9</td><td rowspan="6"> break</td><td>hist 1</td><td>art 18</td><td rowspan="6">lunch</td><td>p.e 13</td><td>music 8</td><td rowspan="6">clubs</td>
+        </tr>
+        <tr>
+        <td>yr8</td><td>science 9</td><td>music9</td><td>Eng 7</td><td>science 9</td><td>science 11</td><td>music</td><td>art 18</td><td>l.s</td>
+        </tr>
+        <tr>
+            <td>yr9</td><td>l.s</td><td>science 9</td><td>science 9</td><td>hist</td><td>ict</td><td>l.s</td><td>science 9</td>
+        </tr>
+        <tr>
+            <td>yr11</td><td>science 9</td><td>music</td><td> art9</td><td>l.s</td><td>science 9</td><td>science 9</td><td>science 9</td>geo15
+        </tr>
+    </thead>
+<thead>
+        <tr>
+        <td rowspan="6">fri</td>
+            <td> yr7</td><td>science 9</td><td>math 11</td><td rowspan="6">break</td><td>bus 4</td><td>chem3</td><td rowspan="6"></td>lunch<td>chem3</td><td>phy16</td><td>sswa 13</td><td rowspan="6">games</td><td rowspan="21">form tuturs time</td>
+        </tr>
+        <tr>
+        <td>yr8</td><td>geo 16</td><td>l.s</td><td>science 9</td><td>swa</td><td>histo</td><td>bus</td><td>science 9</td>
+        </tr>
+        <tr>
+            <td>yr9</td><td>histo 17</td><td>l.s</td><td>swa</td><td>science 9</td><td>music</td><td>ict 2</td><td>science 9</td>
+        </tr>
+        <tr>
+            <td>yr10</td><td>bus 4</td><td>geo15</td><td>l.s</td><td>hist</td><td>science 9</td><td>bio 15</td><td>science 9</td>
+        </tr>
+    </thead>
+
+    
+    
+   
+        
+        
+        
+
+
+
+
+        </tr>
+
+
+
+        </thead>
+
+
+            
+        </thead>
+
+
+
+
+    </table>
+</body>
+</html>
